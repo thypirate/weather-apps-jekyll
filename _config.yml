@@ -1,0 +1,19 @@
+title:             Concept - Free HTML5 Bootstrap Template for Corporate Websites
+email:             your-email@example.com
+description: ""
+author: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-coffeescript
+
+exclude:
+  - LICENSE
+  - README.md
+  - concept.gif
+
+# Social Profiles
+twitter_username: ""
+github_username: ""
+facebook_username: ""
